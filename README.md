@@ -4,6 +4,7 @@ Please NOTE that the implementation is for educational purposes only.
 ## Table of contents
 * [Introduction](#introduction)
 * [Usage](#usage)
+* [References](#references)
 * [Contact](#contact)
 
 ## Introduction
@@ -37,6 +38,9 @@ To run test function implemented in `bra.py`:
 ```
 $ python main bra
 ```
+
+## References
+- A Big thanks to [Philipp Muens code](https://github.com/pmuens/pybra12).
 
 ## Contact
 Khanh Nguyen: tungkhanh@lqdtu.edu.vn
